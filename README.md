@@ -6,6 +6,7 @@
 - #### 🌐 Web Developer 
 - #### ⚡Backend Focused  
 - #### 💡 Lifelong Learner
+- #### 💡 Problem solver
 - #### 📫 How to reach me: nibrasnib1526@gmail.com
 - #### 📍 Based in Chattogram/Bangladesh
 
